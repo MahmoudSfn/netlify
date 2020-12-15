@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap");
+
+body {
+  background-color: rgb(44, 43, 43);
+  margin: 0 0;
+  font-family: "Source Serif Pro", serif;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+.cv-container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 15px;
+  margin-bottom: 15px;
+}
+
+.cv-cart {
+  background-color: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  width: auto;
+  height: auto;
+}
+
+.section {
+  width: 100%;
+}
+
+.section div {
+  display: inline-block;
+  position: relative;
+}
+
+.cv-portrait-container {
+  width: 20%;
+}
+
+.image {
+  border: 0px solid rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  width: 100%;
+}
+
+.header {
+  width: 79%;
+}
